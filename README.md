@@ -1,4 +1,4 @@
-PRoject LInk : https://replit.com/@malikshoeb/quiz-game-on-currency?embed=1&output=1#index.js
+Project LInk : https://replit.com/@malikshoeb/quiz-game-on-currency?embed=1&output=1#index.js
 
 A CLI QUIZ APP
 
